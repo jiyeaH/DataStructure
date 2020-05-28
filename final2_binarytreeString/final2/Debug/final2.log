@@ -1,0 +1,6 @@
+﻿  final2.c
+c:\users\mwldp\desktop\자료구조\final2\final2\final2.c(19): warning C4244: 'return': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  test.c
+  코드를 생성하고 있습니다...
+c:\users\mwldp\desktop\자료구조\final2\final2\final2.c(41): warning C4715: 'value': 모든 제어 경로에서 값을 반환하지는 않습니다.
+  final2.vcxproj -> C:\Users\mwldp\Desktop\자료구조\final2\Debug\final2.exe

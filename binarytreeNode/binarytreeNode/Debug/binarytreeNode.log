@@ -1,0 +1,6 @@
+﻿  binarytreenode.c
+  test.c
+  코드를 생성하고 있습니다...
+e:\자료구조\binarytreenode\binarytreenode\binarytreenode.c(88): warning C4715: 'noOfInternalNodes': 모든 제어 경로에서 값을 반환하지는 않습니다.
+e:\자료구조\binarytreenode\binarytreenode\binarytreenode.c(124): warning C4715: 'BST_findMin': 모든 제어 경로에서 값을 반환하지는 않습니다.
+  binarytreeNode.vcxproj -> E:\자료구조\binarytreeNode\Debug\binarytreeNode.exe
