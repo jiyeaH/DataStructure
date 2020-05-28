@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2048
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "manhattan_problem", "manhattan_problem\manhattan_problem.vcxproj", "{50FC703B-6BEA-4BF8-93CE-7FBF42C344C1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{50FC703B-6BEA-4BF8-93CE-7FBF42C344C1}.Debug|x64.ActiveCfg = Debug|x64
+		{50FC703B-6BEA-4BF8-93CE-7FBF42C344C1}.Debug|x64.Build.0 = Debug|x64
+		{50FC703B-6BEA-4BF8-93CE-7FBF42C344C1}.Debug|x86.ActiveCfg = Debug|Win32
+		{50FC703B-6BEA-4BF8-93CE-7FBF42C344C1}.Debug|x86.Build.0 = Debug|Win32
+		{50FC703B-6BEA-4BF8-93CE-7FBF42C344C1}.Release|x64.ActiveCfg = Release|x64
+		{50FC703B-6BEA-4BF8-93CE-7FBF42C344C1}.Release|x64.Build.0 = Release|x64
+		{50FC703B-6BEA-4BF8-93CE-7FBF42C344C1}.Release|x86.ActiveCfg = Release|Win32
+		{50FC703B-6BEA-4BF8-93CE-7FBF42C344C1}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {88BD06F3-9727-4B3F-B0A9-BAA534AAFBDD}
+	EndGlobalSection
+EndGlobal
