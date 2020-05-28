@@ -1,0 +1,3 @@
+﻿  a.c
+c:\users\mwldp\desktop\자료구조\문자노드트리\문자노드트리\a.c(150): warning C4013: 'gets'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+  문자노드트리.vcxproj -> C:\Users\mwldp\Desktop\자료구조\문자노드트리\Debug\문자노드트리.exe
